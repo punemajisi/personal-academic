@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: CHEN Yu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The Chinese University of Hong Kong, Shenzhen
+  url: "www.cuhk.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include user behaviour in videogames, digital twins.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Videogames
+- Human-computer Interaction
+- Psychology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MPhil in Computer Information Engineering
+    institution: The Chinese University of Hong Kong, Shenzhen
+    year: 2019
+  - course: BEng in Electronic Information Engineering
+    institution: The Chinese University of Hong Kong, Shenzhen
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
